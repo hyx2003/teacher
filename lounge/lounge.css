@@ -11,5 +11,15 @@ h1, h2{
 }
 h1{
   border-bottom:1px solid #99acdf;
-  border-top:1px dotted #
+  border-top:1px dotted #678855;
+  border-left:1px dotted #ddacdf;
+  border-right-style: initial;
+  border-right-color: lavenderblush;
+  border-right-width: 1vw;
+  background-image: url(IMG/lightblue.jpg);
+  padding:60px;
+  padding: bottom 0;
+  margin:20px;
+  margin-top:56px;
+  background-repeat:no-repeat;
 }
